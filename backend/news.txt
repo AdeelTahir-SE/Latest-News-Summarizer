@@ -1,0 +1,603 @@
+channel_title:"ai" - Google News
+channel_link:https://news.google.com/search?q=ai&hl=en-PK&gl=PK&ceid=PK:en
+
+title:AI stethoscope could detect heart conditions in seconds - BBC
+link:https://news.google.com/rss/articles/CBMiWkFVX3lxTE9uQ3FhdS1KX1hJZ0VXc1RrcHBHbExMQlpweS1oUWFuUlhIb2NSb09XNHhJaDcwZkd2N2pGeVJBNDc2MFlqdlE3MHJIcUVuYVl5T2FaNkN1M2Q4QdIBX0FVX3lxTE1YUVFPa3hFLVZGdHdsOHAwa256MUhFZ1VMN3R2aElNNzFOQlhmRHFYYTdQRm9lSDJDRjluTi1qeUJZalpFeGR0azFQVUtIbjNFOUx3WEpKTmNreDVqdFdN?oc=5
+pub_date:Sat, 30 Aug 2025 16:50:15 GMT
+news_channel:BBC
+news_channel_link:https://www.bbc.com
+
+title:Exclusive | Alibaba Creates AI Chip to Help China Fill Nvidia Void - WSJ - The Wall Street Journal
+link:https://news.google.com/rss/articles/CBMia0FVX3lxTFBQVkpFX0xvWEtYQ0R1YndGMmdtWXpKSW1kM3JLX0VYeHRhc242MUFrY084MmU4QzYwa2xyTlZxZ2UxdTdhZ1FEWEQySGVRbHpHbjhWaG9KbHBFNVdTQ3ktZk83N1d6a2NxYVRF?oc=5
+pub_date:Fri, 29 Aug 2025 10:31:00 GMT
+news_channel:The Wall Street Journal
+news_channel_link:https://www.wsj.com
+
+title:Meta curbs AI flirty chats, self-harm talk with teens - The Express Tribune
+link:https://news.google.com/rss/articles/CBMikwFBVV95cUxQVDJzTFQ0UHBmc3hyU0hxaGtwUkFCaXhhaTFKOW5ROVU1R2Fqak9hTVc1aGtkS0tmZTE3WkxTWmRJZTFfdWZoWHlMWUdsS0lpS3dmdXpJV1NUclRDdVhYYmdpbGVXdjQ5RTU5T2RWbTRpN0pMdkdrUzBqVkNEMXVCRjJKLTh0SjNBNG1PT3RpeS1UME3SAZsBQVVfeXFMUHlaN21mSzk1LUpCTkFhSTBvSEl2dGFOazdzZjY0OE5pd1ZFMFUyM1ZrQ3NuYXA2bUF1SXpfNHNoTXB0cnBsOGVibmNidU15MTZJWFNuQ2pPRy1qaExERXhOdk42c2VzU2hhaGJFRGpoWE5MbEl4dGsyNlVoWDJUbGJlN0dicVV0Mlkxc3VldjhEX19pbDNtb3FuSTA?oc=5
+pub_date:Sat, 30 Aug 2025 19:52:30 GMT
+news_channel:The Express Tribune
+news_channel_link:https://tribune.com.pk
+
+title:The Relevance of Literature in the Age of AI - Pakistan Today
+link:https://news.google.com/rss/articles/CBMikwFBVV95cUxPbmtLTVBQOW1IMjVkZXVIM0ZtMC14X1FGTGEycE1ZNl9IS0NkSjlieEM5SnlzMHFOczNOX0hZQW1RbktjQTB1SU1FTGtXSjcxeHphY05BOGJNOVdndTdLSVdqaVJyNVlpaC1JNEs5VnA0VzRDTG1pM2gzcWp5dmVUZFlRd19sdGVYS2JJenFpd3JvcXc?oc=5
+pub_date:Sat, 30 Aug 2025 19:36:00 GMT
+news_channel:Pakistan Today
+news_channel_link:https://www.pakistantoday.com.pk
+
+title:Fellowship in Digital Health and AI for Health 2025: A Student Opportunity - Global South Opportunities
+link:https://news.google.com/rss/articles/CBMib0FVX3lxTE5QVE1aM3hmZTNhTTNsOTJjX2laYlV1YVVSX0JWdUZZTC1HdDhYU2xHaXpTLVZiUFY0QW5CQ3FMd0ZLTDVtZzd4VGxJU2RtQnVwRnB1Xy1yLVAzRF8wUTR3djZGQno2c21mVUdZRTFRdw?oc=5
+pub_date:Sat, 30 Aug 2025 13:10:22 GMT
+news_channel:Global South Opportunities
+news_channel_link:https://www.globalsouthopportunities.com
+
+title:Quack AI (Q) Will Be Available on Binance Alpha and Binance Futures (2025-09-02) - Binance
+link:https://news.google.com/rss/articles/CBMikAFBVV95cUxPMlhxYlZ1ZUlmTzlQdHlNcWVweVEtcTRNbHQwcGxlbnU5TkZ6aEczNXBDT2Y2WWQ4U0NxVzVhRktob3JFanE2SDR5OGdBUjRhN2tsQlNlTmRhaHNVMjRJUUtTdGYyOFNHSVhjMWxEUmRiNWZKSjdzSkEzT1Z3X2trMU9acXk0Rkc3VTQyRmNNbks?oc=5
+pub_date:Sat, 30 Aug 2025 12:37:46 GMT
+news_channel:Binance
+news_channel_link:https://www.binance.com
+
+title:WhatsApp Launches AI Writing Assistant for Chats - ProPakistani
+link:https://news.google.com/rss/articles/CBMijAFBVV95cUxNbU9zZ2tZS3ZYNzFlcWVYVzdJQmhoREhNTTVaZjA4Y1EySzRZVlJpTXNOcHhsN215Y2FpcGJPS0xRcENNR3lGNVJQQTFZRkE1NnNyZGZBSWR0UV9RdlJsRzVxcVRBdzQySlhpZWZaM2VJcW91aWhOU3hzWWdYTmVrbldoQjhDb1hnY0Jmdg?oc=5
+pub_date:Sat, 30 Aug 2025 19:18:45 GMT
+news_channel:ProPakistani
+news_channel_link:https://propakistani.pk
+
+title:Taco Bell rethinks AI drive-through after man orders 18,000 waters - BBC
+link:https://news.google.com/rss/articles/CBMiWkFVX3lxTE5pTktvQXBhenFSd0RBdExPc2R1cmtjRElxNWRDY25UcGdEREVsZjNzSlF1WTJWZU9lbVF0WnRMYXNIbVFkb21pU1l1dTdKZjM0eTg4d2ZNUERkQdIBX0FVX3lxTE5sdHItWWZzdy10LXZCOGZVZjdmOVNmRm5KUG5aRnRNQ19PVlcxYVh4dTlVcHJNNkJCcnJxNVFJalVzQjJPQVBob3dFckttUkNGbExscWYxZWs5M3Y4V0hz?oc=5
+pub_date:Fri, 29 Aug 2025 10:33:42 GMT
+news_channel:BBC
+news_channel_link:https://www.bbc.com
+
+title:Hackers used Anthropic AI to 'to commit large-scale theft' - BBC
+link:https://news.google.com/rss/articles/CBMiWkFVX3lxTFBKVHJVZnpYRl9rVURTSS04YlRnU1hWRDJJUmFfSXNQUWp0akZiRkxINVdiQ1J2OFJCVFYyOWVNNndCb182aVgtRmRQZ2FHVzNMOThtYzgtT3I1d9IBX0FVX3lxTE40WWF4eV9VVlRSMnp1blBBZ1ctM01sRjlfZGp4VmdReVFvR3d2d1JLcWZpUUJNYWdfdDM4YnBsN3ZHeEgweFlHWHFZd09oQmxEMGlTS1M1Z3ZIbGJlV3JJ?oc=5
+pub_date:Thu, 28 Aug 2025 11:40:27 GMT
+news_channel:BBC
+news_channel_link:https://www.bbc.com
+
+title:Cabinet directs MoITT to develop commercial AI apps for ministries and divisions - Profit by Pakistan Today
+link:https://news.google.com/rss/articles/CBMixwFBVV95cUxNVVlMSW5lQVdRY1JZb3FjZ01UNVV1bk1IM0xRMGI3NkJONm5jWE52MklFU0hvQ0w0TXJ0OVFyTXFYWWZIeG5XQmJOU0hPZ0JFbk12RDZuN0VYOXg2OFlJci03NFVBV0FsRXpGdFFLandOam5QTmF4R3NOa2RWWndIYmVkaTRsaUNOZnRHTE4tQk90UUQ5dTY1NjdTZVBWU0lpeUU1VUxsUVlWYzhkcTg0S3lJR0Npd0RvbDF0X0E0VV9sY1h0TWJr?oc=5
+pub_date:Sat, 30 Aug 2025 07:47:13 GMT
+news_channel:Profit by Pakistan Today
+news_channel_link:https://profit.pakistantoday.com.pk
+
+title:Artificial intelligence (AI) | Definition, Examples, Types, Applications, Companies, & Facts - Britannica
+link:https://news.google.com/rss/articles/CBMibkFVX3lxTE91d3p4QUEyLUdkaGwtSVItNUZLNmlxQWRMeC11aXpDaFl4UEl3QmZockRzN2NidmlJN2RnZGhHSzBNbU1zcDRCMEtIbVEtYWk4QXh3UkRabmVOMjJ1UmJxM2N6U3d6cUJ5c1dydmZR?oc=5
+pub_date:Thu, 28 Aug 2025 05:00:00 GMT
+news_channel:Britannica
+news_channel_link:https://www.britannica.com
+
+title:China Has a Different Vision for AI. It Might Be Smarter. - The Wall Street Journal
+link:https://news.google.com/rss/articles/CBMilwFBVV95cUxPZWxVRVpCSEh3OFlxZ1dyaW1RYXRlTFVlRU1Bb3lFZmIxRjQwSndmakQzYjFVb01jS0V1UWlsRFlLdkVTdnRXWF9fU1VjT1VMOGx5WXE2Z0Q4MjluU0FKMUxKNWFCNnoxTjVmZDhOQmtaSWRzZ0hzSlBlSk1Xa0tId0ZoMVVxb3k1bm10X1BOZ3luanVsbGt3?oc=5
+pub_date:Sun, 31 Aug 2025 03:00:00 GMT
+news_channel:The Wall Street Journal
+news_channel_link:https://www.wsj.com
+
+title:Doctors develop AI stethoscope that can detect major heart conditions in 15 seconds | Artificial intelligence (AI) - The Guardian
+link:https://news.google.com/rss/articles/CBMimgFBVV95cUxOTU9EeENQSnpfclVNY2Zkb19OX3R6c1NPM0trYXpSbk15TWdqemJLc0NIR2h2NTZfNW9RNzVyWnBBQURSUGpPSVdOb1J0Z1pQelI5Sl9iczR1M0ZIQTBZWW93U29GYjUtLUtVdEdkdC1qRVcwbTVmOElpRDh1QkhlTDNyR2FsXzhlRUI0ejA0dlZvcDJwelc0cHJR?oc=5
+pub_date:Sat, 30 Aug 2025 10:03:00 GMT
+news_channel:The Guardian
+news_channel_link:https://www.theguardian.com
+
+title:Education Ministry slammed for AI image of kids starting 1st grade - The Times of Israel
+link:https://news.google.com/rss/articles/CBMingFBVV95cUxQTW13bEJJUGRENEpBbmotbG1jNG50XzdfYXlwbVlYZnJDZ3ZFT1BLcGxyZmFpTHZtNEp0NzZCRFdDQS1Ock15QnBRSnp5dWo1VVBTY1pRQ3ZmeTBTS0JhY2oyUm5zLVBRYWpOaEhXdmJvYl83OUdzT1FrQUhHUldKU1B2WXFWRi1PU1hjd1E2VGdkQS1KZ01Ob29XVVU0UdIBowFBVV95cUxPQ3VybGI3Q25ENWZnbERTVlZrZktCSFFzTlh3SEJ1NDAzeFo3VGFMdnJaY0JESGVoUnBUeTRsblNoLWtIZkRtYUZyd1ZjYlFramtDRndmYXRIMEc2OWNhQ0tNWTRBUThPMmJNaW84SVZXMGJEMS1DR3hhUnJzMUhvTGdfZ0xtMlBsVFpUTGZhV2VHVENMSEdzLWZjUHI3dmhSS2tn?oc=5
+pub_date:Sat, 30 Aug 2025 14:07:00 GMT
+news_channel:The Times of Israel
+news_channel_link:https://www.timesofisrael.com
+
+title:How Google’s AI can help transform health professions education - Google Research
+link:https://news.google.com/rss/articles/CBMilwFBVV95cUxQeTV1cUwyMGRVaVFtcGItNUtpX2lUNEZWSzI2bFNQbWtBR2k1bk8xX1piaWNCaDVHd1hxMFRabEQwVkVlbE9rN25wd3lnd0JmNWhzSG9jR2Z1VWE5ZUs1UGYxMk14OG9lZmd5cUYyaEVlYmhrRDIwNlg3dGl3U1lsU3A1VkZpcDc2U3hRN2FNU19zZDZQSmRn?oc=5
+pub_date:Wed, 27 Aug 2025 17:23:59 GMT
+news_channel:Google Research
+news_channel_link:https://research.google
+
+title:[Invitation] Samsung Galaxy Event: Introducing the Galaxy AI Experience to Our Latest Innovations - Samsung Global Newsroom
+link:https://news.google.com/rss/articles/CBMixAFBVV95cUxPcEhPY094RzJITzV5Q1ZIMGEwMGtETFJ2ZEc5V3BqT1hkWEFGU2l3ZDQ5bk80Qk1hUy1qYkZOa2RTYUZGZ1Z2aVZGQlJEc0ozdnFYNTN2Yk1ZSFhOOHlyeDJzWmpDVmJEUGRQM2R5Q2oxSnhEelpldGFqeGFYb2RJQXFSNnpPcHhGZWhLYzdMZXFkeGlGdGlQRWRhbHVlM0w4My1TUzlMZUNSVWJNb1ZCdHV2Y0lGeTZfc0hrV0U3TnJ1RTNZ?oc=5
+pub_date:Fri, 29 Aug 2025 03:46:48 GMT
+news_channel:Samsung Global Newsroom
+news_channel_link:https://news.samsung.com
+
+title:The Era of AI-Generated Ransomware Has Arrived - WIRED
+link:https://news.google.com/rss/articles/CBMigAFBVV95cUxQSnRwaUNGUmUzY21vMXpCdDBWeWJXek94amVtdzYwdk45dE9NQjAyYWpJdUZKemJsbTBIblFLR2JqM1FEVFdkMFpETFpxQ29XU1RObjdTaFlrSHNVQS1NSzlzQlhSMllwVXM1WndodWx4TVdFaV9VenVFUXA3aUNJdg?oc=5
+pub_date:Wed, 27 Aug 2025 12:36:43 GMT
+news_channel:WIRED
+news_channel_link:https://www.wired.com
+
+title:5 big analyst AI moves: AI stocks’ valuations nearing dotcom levels; AMD upgraded - Investing.com
+link:https://news.google.com/rss/articles/CBMi0AFBVV95cUxQTEdIRXpjUTFndnBQNTVpU0ZBNkFLaVFybGFNcDh6SlZYbEo4bkZfNE1LZEpzYjJBWXJSdmpxRlRCTVVnb1d0N1RHRWlIYnEwVVZ3LUxCZTI0TmV4bEJYRWl0aGdYQ0hib1hON21iSjRmeDlOeXpyVDNOVzdpR2dwbUpoUjJNclV5emJpcXRxMS1Qc2JUSnAyTmxORHJhcWNCWDJ0TGoxN2FfemlYN0JITVZZN0w3RFBnbGZxSWxHeS10cHNIbjBGUld1RjBZYmxO?oc=5
+pub_date:Sun, 31 Aug 2025 09:01:00 GMT
+news_channel:Investing.com
+news_channel_link:https://www.investing.com
+
+title:AI Has Broken High School and College - The Atlantic
+link:https://news.google.com/rss/articles/CBMijwFBVV95cUxNNjk1MS1nOG1rOWdWOHhsMWEtdkFWTlJKUDd3ZHhMU3VIV3lNY0xUMGFLWFZmMXBPamEyNThTbzRwTzJPcHp6b0xpdGtKSFBXMEFfUkdkOU9JejhTNGl5dzNXWmQ1RGJhaXlHQ0IyOGlvYlhQMVJXcmpQbnBFa3o1a2UyS0VxQmhnN2FfWG16RQ?oc=5
+pub_date:Fri, 29 Aug 2025 18:16:00 GMT
+news_channel:The Atlantic
+news_channel_link:https://www.theatlantic.com
+
+title:What the Agentic AI Era Means for Business—And for Humanity - Time Magazine
+link:https://news.google.com/rss/articles/CBMiW0FVX3lxTFBrRVhYdWJTa2NVUmlFRmZHck1ZM3JnZk96eDdscVU0Zm03M3hqbkg4T0Q0TDZQTzduVUJSUXdWcWRjMXAyYkVWMWltOW1OYWhUdmwwSnVHSXlQVkU?oc=5
+pub_date:Thu, 28 Aug 2025 10:07:53 GMT
+news_channel:Time Magazine
+news_channel_link:https://time.com
+
+title:Rise of AI shopping ‘agents’ set to transform ecommerce - Financial Times
+link:https://news.google.com/rss/articles/CBMicEFVX3lxTE9NajNLOGFKYVE2eDFQWnFoWUpFMGR1NFoxQjZSY3hSSGtCTUt1Nk90SWVabE5VVkxZVm1lVXZxMk4wNlhvUVZ6NG45ZTJjcG1tT2dDeTdwYWdZazJtWVJIeVBZbkhaSHhxUWVmcy1DRXA?oc=5
+pub_date:Sun, 31 Aug 2025 09:56:15 GMT
+news_channel:Financial Times
+news_channel_link:https://www.ft.com
+
+title:No More Typing: I've Been Talking to 5 AI Chatbots. This One Really Stood Out - PCMag
+link:https://news.google.com/rss/articles/CBMilAFBVV95cUxON1BTOEJwa1R2RjRjeUhnd3RGQVQ4WGY2OXgyb1JCQWN6NFVRVG95QWlrZ2JsUzdYT0JDZm1fdEJjUS1lQkZyVENBTXU4SDQtSHlGREFQQ2pNZHdYb3U0WC1tMkotT1VzOS1GbklZNkJNRHo5OWpOVEFYTjhYYlh3UGFoQ0l6YmJIMWljQS1QTENLT2My?oc=5
+pub_date:Thu, 28 Aug 2025 13:00:40 GMT
+news_channel:PCMag
+news_channel_link:https://www.pcmag.com
+
+title:Introducing Gemini 2.5 Flash Image, our state-of-the-art image model - Google for Developers Blog
+link:https://news.google.com/rss/articles/CBMifEFVX3lxTE1QSjZxbV9XRm9kbVRqWV9RZ29OWHZNQ0ZDSThQTjNLaEJ6RzhhaXZLbnRxcU51R2pkc1NRVVpJN3d2RVBwSHpkSVlEci05Z0pnZDJudjNmYmpUY2hEZ3lnU292U1dIS2hRMVc5VWxzS1lVVWlqQjduMzVIdkM?oc=5
+pub_date:Tue, 26 Aug 2025 14:19:42 GMT
+news_channel:Google for Developers Blog
+news_channel_link:https://developers.googleblog.com
+
+title:BBC reveals web of spammers profiting from AI Holocaust images - BBC
+link:https://news.google.com/rss/articles/CBMiWkFVX3lxTE91N2dpWVZ1TzRicVlXbzZfUGRRMlBULWp1TkduTVZycHAxSEJkN1o3by1wSy0zMktvamN5OGhVRFFEUEV3a1JXSXkyb1lRWEtKS1dNU3RPOUxhQdIBX0FVX3lxTE1WbUM0TzQ5RFlhQ3huU1Q0Zldnc2lVTmdfb1ZNc3lrTUhKWmFsWWtjdnZCQUNGU0lXYnpYMlFfLVdlUHdHaHNINDNfTlVVVklwSy1vemlkNUFlNWJ0bU9r?oc=5
+pub_date:Fri, 29 Aug 2025 00:02:08 GMT
+news_channel:BBC
+news_channel_link:https://www.bbc.com
+
+title:Taco Bell Rethinks Future of Voice AI at the Drive-Through - The Wall Street Journal
+link:https://news.google.com/rss/articles/CBMinAFBVV95cUxNalFoMERTRHFtd3U0ZXo0WHp4djlqQzBURXc4ejF5MlhIVUc1eWVUcVNEWkhvX1VXOTFSR1BNZDBEbTRwQUJYeVlRcGhEM2FYWWFmSTJ4Q20xdUhGZ0JlUmxuM1pxNGI2QzZadXpkc3QyTkwxd252QW9pRG9QMERaYlJKcm1XeXlMczU2bUc4T1cwaDNCdkJNbzZpMHE?oc=5
+pub_date:Thu, 28 Aug 2025 13:00:00 GMT
+news_channel:The Wall Street Journal
+news_channel_link:https://www.wsj.com
+
+title:Is Miss England's AI round dangerous or progressive? - BBC
+link:https://news.google.com/rss/articles/CBMiWkFVX3lxTE04bmxyTDBZRXQtUlI4N2p0QmkwTDNTS2NYQnZBRGRaRDRheG40SjNoTjJMU0J1MWNpa2xYVG1XOVc3OEphS0VqRnYyTnZFRG05Nk5aMmdhT2gwQdIBX0FVX3lxTE1Jak12M0lEaGlsNFhObTI5OXJSWmlTdEtIWUN0ZXozWjY3SE9KQVNUYTFZYXlYSW9UUUhaT21vVjJ0bURKOXk4dUdQdzV4MmdBVml3c2tEak5OS01JelNn?oc=5
+pub_date:Sun, 31 Aug 2025 06:27:51 GMT
+news_channel:BBC
+news_channel_link:https://www.bbc.com
+
+title:AI demand means data centres are worsening drought in Mexico - BBC
+link:https://news.google.com/rss/articles/CBMiWkFVX3lxTE5fc2JOOXFVX3IwZENJbmFQTVhMeEVHLTg1aFlqdjVNR2NNSklfa1Y5dEQyTkRydkE2NHVJR1NpSmpsejNmZFRWenphS1BHVG45M2xDZ3VoZ1IwQdIBX0FVX3lxTFA1N2FhSWFrdk9KZ0xMeDl1NWlka1UydFpLdGVjMTloNTZQN2ZSX2RONXZWRnhiMEhPcENWQ1VuZ2xWd3dNS0pHa1FSNF83Uk9sc3QtbDNPaDhkQlhlMXFv?oc=5
+pub_date:Thu, 28 Aug 2025 23:03:41 GMT
+news_channel:BBC
+news_channel_link:https://www.bbc.com
+
+title:Fast Food, AI, And Why Guardrails Matter - Tedium.co
+link:https://news.google.com/rss/articles/CBMiaEFVX3lxTE5zcGhUNGFfZlozdlBaZVJoSW5tamZtQ3NoV1p1eFpFRkpMWTFuRUNRY1A5YXM0cnQ5NFUwV1ZNRnpsNVdSWFhiMXdOZG4wRWpaenZEUG10MGF2ZnFHdmZOMkUxS1N0OUhH?oc=5
+pub_date:Sun, 31 Aug 2025 01:00:43 GMT
+news_channel:Tedium.co
+news_channel_link:https://tedium.co
+
+title:Cracks are forming in Meta’s partnership with Scale AI - TechCrunch
+link:https://news.google.com/rss/articles/CBMikgFBVV95cUxORHRXLXVUMGpzd0xVWnpGX0N2UVhlTVo4enJKcUxYVnZpNk1ZbHdjdDl2Tm5YVkt2VTE1RkQyUzY2R2NfSjVrQmQ5QXNOVDlKYmk4VGwxWUkwWERnNzJjcll5clA4QTljbVF1akx0RWREVmt5STJ3cDhKWDJ4Wk9PbzBRVEJKczVpOFdkMDdqMkMzZw?oc=5
+pub_date:Sat, 30 Aug 2025 01:34:05 GMT
+news_channel:TechCrunch
+news_channel_link:https://techcrunch.com
+
+title:How Tokyo is using AI video to prepare for a Mt Fuji eruption - BBC
+link:https://news.google.com/rss/articles/CBMiV0FVX3lxTE9vczVteEh1ZWJJNy0wZTc5ZElJeVl3S1hmWUdMbWZWZ3NZNUxYYkVXQVpKalk1OUdOQnRWN2ZucjJZRWh4UjlnV1docUtONC13c2RYM3NOUQ?oc=5
+pub_date:Thu, 28 Aug 2025 03:56:33 GMT
+news_channel:BBC
+news_channel_link:https://www.bbc.com
+
+title:New AI-powered live translation and language learning tools in Google Translate - The Keyword
+link:https://news.google.com/rss/articles/CBMifEFVX3lxTE1KbTJkSGplLXU1UE5UUGhFWGdqWEYwWlM0RFhpME1nRHNDSTRwc0ZRQUUyMElfTUFFazFMNHlWSlkzbFlVSEgtTm1FTnlqaHJkeWFMNlJTZE1hc3JXXzNJNklUX1V0SnFjeFhKTDZHMVJkdXg1bnZDOGw1VXI?oc=5
+pub_date:Tue, 26 Aug 2025 16:11:47 GMT
+news_channel:The Keyword
+news_channel_link:https://blog.google
+
+title:Learn what makes Pixel 10’s camera tech and AI features so special. - The Keyword
+link:https://news.google.com/rss/articles/CBMigwFBVV95cUxQa2NfRDYwd0lmaUF3UWUwNFlHNHhXUTMxVlU2T0ZsVk1ON0FCZ3FzdGtqazMyNjVRaE1UYXNscDZRUFM5VDYtbnRoMEFvSzU4UGtMcFJsY2ZsNmFXQkRYaXRQZmxXRzN1VjQ4MUEtYmpKNWo4X1hhaHloWlNjVjdodFRrUQ?oc=5
+pub_date:Fri, 29 Aug 2025 17:19:52 GMT
+news_channel:The Keyword
+news_channel_link:https://blog.google
+
+title:In Praise of CliffsNotes Study Guides in the Age of AI - Literary Hub
+link:https://news.google.com/rss/articles/CBMif0FVX3lxTE50TGc5VXNyMlFuYlRhTEE5ZlQ5cTF5V3JjRzEtdkhxQ25GczgzSll5YWV5Um4teGlYcEtHcC15NWQxeGRqVk9yZHBlbGdyTGlxZjBEeFY3WEptdnZwZkxmMHhlR2pRNjlvb2xmdmJmQWRleWgxWHBRSmE2c1dvOW8?oc=5
+pub_date:Thu, 28 Aug 2025 09:02:23 GMT
+news_channel:Literary Hub
+news_channel_link:https://lithub.com
+
+title:Is the AI boom finally starting to slow down? - The Guardian
+link:https://news.google.com/rss/articles/CBMikgFBVV95cUxNUU9qOUVpcnkxQkRSaWlhZUhyVS1mWGVzNHlDV0xnUEFkUVlNNVdSdkk3bkVMYl9WTGZUVEFTc1V1Nnk5TmI0Zm5zQzJLTnVaa1czU2ZKVHduVDVITF9XX1hiQVhJbDFSclgxc3JnaE1KVjRvMWJIdzlDSks1MlhfLXN6UVhIR1BOZ2ZmaDc3UXo1QQ?oc=5
+pub_date:Tue, 26 Aug 2025 15:21:00 GMT
+news_channel:The Guardian
+news_channel_link:https://www.theguardian.com
+
+title:Beware the AI Experimentation Trap - Harvard Business Review
+link:https://news.google.com/rss/articles/CBMiakFVX3lxTFBpNlBEZ1psd3JjN043NXRFY0ljUWpYWXViNW9NSGJvRkdwejBhelVNaEtOekVpaHNRdGFfNDFSZ1FxUGwtSXlQQlkwZ3RhWTVvc1VTWU81bW41dXdoMWdaVEl3ZTVkS3RUM2c?oc=5
+pub_date:Fri, 29 Aug 2025 12:11:34 GMT
+news_channel:Harvard Business Review
+news_channel_link:https://hbr.org
+
+title:Guillermo del Toro: Frankenstein Isn't AI Metaphor, Afraid of Stupidity - Variety
+link:https://news.google.com/rss/articles/CBMiuAFBVV95cUxOOFFJRTNLSGNpVjIyR3FIV2JIeW5fc2JUV1JjQWZyMk05WnVWN0g4SENtaHBjakhHd1pRdi1iYUxGLVlsd21hVlJ4QUZWMklyY3gxRGlSMHNULUhpa1RRVXNzczZsMkNZcFBlWFhPOXN6cTdMNW1ma0xzSWV2ZGJldFV6LWx1T0dSbTM2M3ZQdzZpRU9CRHd2RkthTkpXMGctRTlaU0haTk9MQzJOQURoSmg4dlYwRXdz?oc=5
+pub_date:Sat, 30 Aug 2025 13:05:00 GMT
+news_channel:Variety
+news_channel_link:https://variety.com
+
+title:Is AI learning just MOOCs again? - Economist Writing Every Day
+link:https://news.google.com/rss/articles/CBMihwFBVV95cUxQQkg1WG9xZnRlSDZNZzlRNnNrdXVXamF6MmFOOTR6anlkVDRQOXVyUDN2b2FSa2hUVnIxLVR4ZndzT2RHaVBES08xZXZXejlXSU9IVHRHQ0hLaloyOG16emtDaEpjdWxOaXhudC1QUE93X1JnYXdnYjJUMmtlVWlJd01JWjB2Z2M?oc=5
+pub_date:Sat, 30 Aug 2025 13:12:00 GMT
+news_channel:Economist Writing Every Day
+news_channel_link:https://economistwritingeveryday.com
+
+title:'AI slop' videos may be annoying, but they're racking up views — and ad money - NPR
+link:https://news.google.com/rss/articles/CBMif0FVX3lxTE4yQ29PQ0t5ZXRONFJ5bm5yQ2RIaXhqTVdCSmJDa0pLYTJkT3FuQlk1SU9NWHJld1ZHZXlWUTQ3NWxYTW5IVF92V0w2V2NEU1ZRT2ZzWjdOc2ZLOVdwWmdYbVJQTGx1akIxVE1QcW1JYmI4QWR3bllCbG5nRGxWVkk?oc=5
+pub_date:Thu, 28 Aug 2025 09:00:00 GMT
+news_channel:NPR
+news_channel_link:https://www.npr.org
+
+title:The crawl-to-click gap: Cloudflare data on AI bots, training, and referrals - The Cloudflare Blog
+link:https://news.google.com/rss/articles/CBMibEFVX3lxTE9SUkRlRWhRSnJEYkx4S2RjSjdoSnpyaC1DR21tRlh5cFE4a3pyNGl5dHhlSXRyakN0VGlmNER6VGFWSUNudEJfajlVd3NKRzllQVZzM3I5X2ZBWjdQT0ZaeG9reDI4cy1uSVJLMQ?oc=5
+pub_date:Fri, 29 Aug 2025 13:05:14 GMT
+news_channel:The Cloudflare Blog
+news_channel_link:https://blog.cloudflare.com
+
+title:A hacker used AI to automate an 'unprecedented' cybercrime spree, Anthropic says - NBC News
+link:https://news.google.com/rss/articles/CBMiugFBVV95cUxOTnNtcDRPdTRjSlZodHJGOGNvSkFnWnJfbGVqS1FKVWd2Wm0yaGlXdEhuQzdUa2Y4UF9kVFdRZ21jeE9LaTNCUW9oeVRGZm9SdXAyN3M4Qmx5N2dTRm5YWFlxWkp0OGwzcmZHNTJoT2xFeDdRMm9QcjZ4WEtBXzRmSFZwX1kySG55MzlZNmhuUGgwcWVMQmswLWt0aVVWMUEtWDVVOUFBLWdnV3FEeTJZS2ZvcWl3YkpmOEHSAVZBVV95cUxNNS0yRHFYb0x0MVJFOHAxLU5lb0VDeEcydDRId3ZPblJnNkRJYlNMemJqWEszc21hUFJqZm94ZkNJQWR4V3JWck03U25SWjY2R2JyR29odw?oc=5
+pub_date:Wed, 27 Aug 2025 12:18:25 GMT
+news_channel:NBC News
+news_channel_link:https://www.nbcnews.com
+
+title:I learned to code after seeing Sam Altman speak. Now I'm pausing my music career to go all in on AI before it's too late. - Business Insider
+link:https://news.google.com/rss/articles/CBMinAFBVV95cUxNOVFTWEVXYnNnRnpUZjd0SFZ2MnhuS2cwaDM5WkVyY3VSQzNhN2EtYzBXM2NzTWJrZlRvaWtLVGtmWWozUV9TZzdRTjU2eE5NbVp6N2staVBmVTBpUmVNbEt1a3FiREZpRHl2ZDJSdmNlZ2k2clpTTHEzbDlnSmpqd19fRTYyNWFhMHUyZ2hQU0M3TDlBVThSUnZuVmQ?oc=5
+pub_date:Thu, 28 Aug 2025 17:10:00 GMT
+news_channel:Business Insider
+news_channel_link:https://www.businessinsider.com
+
+title:'AI shame' is running rampant in the corporate sector—and C-suite leaders are most worried about getting caught, survey says - Fortune
+link:https://news.google.com/rss/articles/CBMimwFBVV95cUxQamx6SVNpdmZtNnRZeFNVcVk1M1VJUFNWTy1HS2FCbzB3cXhQUEYxNkZMQlhIMVEtZURoUi1Lc0p2Z0tGNDhjTTYxSzU2VmZ5TWZuVE5URmtZdXdPQlB1YVhCM1BqQldLSFVzRFpxREVMekZlZG51aUxhQk9SNVpXcDhOM0JNVTdmRlZhaTZLNXZHUmZkVl9SZUdvSQ?oc=5
+pub_date:Fri, 29 Aug 2025 15:22:00 GMT
+news_channel:Fortune
+news_channel_link:https://fortune.com
+
+title:Meta changes teen AI chatbot responses as Senate begins probe into 'romantic' conversations - CNBC
+link:https://news.google.com/rss/articles/CBMiekFVX3lxTE84UDRMZ0tXbTNFNHhRX3JqN01Tc0pRaTBxMU1udXpuWHV0VWVDeTJpbEJ1clI3d3NWLXRzZFJaaEo5NXJWLVBXZUVXMzdPd0Y1LTI0dHBmTHRITlhqVFp4R0l3WVZ2ekJPS0N5Qy1GaGdaR3dFczFid2pB0gF_QVVfeXFMUDBTUjVXM3dvT2s3TEFVM0p5WWlVdXhPdVNZOFkxVWhwbnFPQWdnZkxHS3VGVEJWYmEtQWt2NWg2ODNiY0p2cFI3b05wcWIxV2dsX2p0Rnh1ZnhoS0JjaXpZM3F5dk5iaDlJUXhxd0RmRmJ0NmhfOWxZQXV5UjRiaw?oc=5
+pub_date:Fri, 29 Aug 2025 19:43:33 GMT
+news_channel:CNBC
+news_channel_link:https://www.cnbc.com
+
+title:AI or not, Will Smith’s crowd video is fresh cringe - TechCrunch
+link:https://news.google.com/rss/articles/CBMijwFBVV95cUxNRll6dWpYOXh5UUQ4VmRrUVVZZm92MEhxbjVyUzN6aWtRUGRraGc4NVM1VFktdzJOeGZZWi1YSnZub0F6WHJKU3hDNzdzTU9jYzl0M2s0NlNiVVFPUnZ2VWd6OWdRQVRwY3N5aW5NS0xtSW04Vkt6cjYtTkcwSVBKaGJ6WS1OeS1XV1p6NDN0bw?oc=5
+pub_date:Thu, 28 Aug 2025 20:02:52 GMT
+news_channel:TechCrunch
+news_channel_link:https://techcrunch.com
+
+title:Detecting and countering misuse of AI: August 2025 - Anthropic
+link:https://news.google.com/rss/articles/CBMidkFVX3lxTE5qbHpIdkE5N1p4UmVSM3E0dnZ1bWNpZlVpRXBvQkNqWS1QX0FIUkFQZzlycjNJZzU5X0c4dkFacTF4SXFwbUZWS1dXaHNhcDh5bXlEcjVTVzdGOUppbG5VUGVCTTFZSW1fVThQR1NXaHE4eGlVUWc?oc=5
+pub_date:Wed, 27 Aug 2025 09:59:22 GMT
+news_channel:Anthropic
+news_channel_link:https://www.anthropic.com
+
+title:How Builder.ai Collapsed Amid Silicon Valley’s Biggest Boom - The New York Times
+link:https://news.google.com/rss/articles/CBMiekFVX3lxTE1QeUMtX19lVE1aUzB0enM2RlZFWVMtR1FfUk91WTk2R1ZwcmhqOUgxSGxCNm9IU1U1VHp2bUdzZXhwOTktUHh6YTNMVDlxc0UwQkRjaWlsdHpydHd0YlZZV2c2TnZZRDd5MG9fVUUtRDdiNjBvRlVTVjN3?oc=5
+pub_date:Sun, 31 Aug 2025 09:00:38 GMT
+news_channel:The New York Times
+news_channel_link:https://www.nytimes.com
+
+title:There's a Stunning Financial Problem With AI Data Centers - Futurism
+link:https://news.google.com/rss/articles/CBMiX0FVX3lxTE1iRm9GNGZGWjN5Y0JySXJsLWd0b0pmNV9uMVc3WmFjRVJfcXlhTVRjVURFTm1UaGkySzBTQ29LR2VGa3BzSXcyUlpyMlpWSTFOTE9XWExiZk10ZzZyLUd3?oc=5
+pub_date:Thu, 28 Aug 2025 16:21:32 GMT
+news_channel:Futurism
+news_channel_link:https://futurism.com
+
+title:The 10 Most-Used AI Chatbots in 2025 - Visual Capitalist
+link:https://news.google.com/rss/articles/CBMiekFVX3lxTE5MQnJWRDhMWjRmNjlRd1NaQWdtcXZWVGNIdnRGdXdnSEtseHZBYWhDT09oZDhWNmZ0eHNDdHFldGV0NGJEM0M4M0Iya0xLeGNLeWp4RWswVU9BdndBZkV0eHk0RkhOZU1VQUJnRFk0enFmRkhCTVNQYWNR?oc=5
+pub_date:Thu, 28 Aug 2025 12:12:25 GMT
+news_channel:Visual Capitalist
+news_channel_link:https://www.visualcapitalist.com
+
+title:Welcome to AI Week 2025 - The Cloudflare Blog
+link:https://news.google.com/rss/articles/CBMiYkFVX3lxTE50N3V5RlRCbnNaM0dIMkdkNjU4bXpwZUZSbDNNYUx6cUZxRjBKdzdNcWFZNGNkRzNwSVpDUGRkdWlzRVhVSVFFT0tsc01DZndfMFJkbzZub0t5bkcyNHhkaENR?oc=5
+pub_date:Sun, 24 Aug 2025 14:39:49 GMT
+news_channel:The Cloudflare Blog
+news_channel_link:https://blog.cloudflare.com
+
+title:Nano Banana: Image editing in Google Gemini gets a major upgrade - The Keyword
+link:https://news.google.com/rss/articles/CBMickFVX3lxTE1Fby1sUkRQSThmSWR1NHhfU21EbXB4eFZVZDVuT0FJRDZsU0NGZkxNVjVtTGNzbmVhNW5lUjZXUzNsYUhqWXRodGwtTERiczNKZ2ktbzAyT29PYzZxSHBSekM5S0JNZDJGUmtaN3RFMThNdw?oc=5
+pub_date:Tue, 26 Aug 2025 14:08:04 GMT
+news_channel:The Keyword
+news_channel_link:https://blog.google
+
+title:Meta’s Unauthorized AI Chatbots for Taylor Swift, Scarlett Johansson, Anne Hathaway and Others Made ‘Sexual Advances,’ Sent Pics Showing Celebs ‘Dressed in Lingerie,’ Report Says - Variety
+link:https://news.google.com/rss/articles/CBMiwAFBVV95cUxPR05xX01FbVhqWUpZMUFzSUFRbkdxYnpET0V2MVpvU0RpLWxiYUVDR0lHLXh1YXE2Qk5jVUVndFN6cmpJNkZWTVdaeFY3dU9XdXh3dlYyNWJqTVc3UUFJbkU5V1UtSldFZFh1bWRHcXJqT1hzZnUydHdtcDc1OGdQOVpza3FiMlVEZUhiVThVTzN6cW1IS180WG5mZ2Nxc0hHM2J0QnU3c2l4TjN6cUY0a0VHbDVZSE92QjNERnM3RkM?oc=5
+pub_date:Fri, 29 Aug 2025 21:01:00 GMT
+news_channel:Variety
+news_channel_link:https://variety.com
+
+title:YouTube secretly used AI to edit people's videos. The results could bend reality - BBC
+link:https://news.google.com/rss/articles/CBMingFBVV95cUxQNWNOUE0wbTBxWVM1aFUwS1BFVWVLbzZzOWtCbk4tZFlFS0dnLUl1Y0ZldkJUcjlid0FNbThOQnVYSnJUS3ZDZUEwSEhCQVVtRzA2akhQX1hxQ1RVT2tDcWxQMWtlbzBCajE3Ty15NFMtM1VFMGNIUS1uTVFGWDYzSHpWdjJUSjhuWHk1WGZRV3NSUHNnNUhnMUZoVEc0QQ?oc=5
+pub_date:Sun, 24 Aug 2025 10:00:00 GMT
+news_channel:BBC
+news_channel_link:https://www.bbc.com
+
+title:ChatGPT isn’t just for cheating anymore - vox.com
+link:https://news.google.com/rss/articles/CBMiggFBVV95cUxQdzRsOWhrdFVOdzBSMUVjcHR3Y3phYUMtSFVHS1ZHZUtlcGtMMVJaSGZuczJRNXEwbXQ3Ql83X1JuUW9LUzktQmJ2dEtLeFRXOGxBcmI3VkZxajdzeG9UaHhIMlFhUkZQNnpVZ1M4R24wd1dDVGxjVGthMkhYYXRXWWtR?oc=5
+pub_date:Thu, 28 Aug 2025 11:30:00 GMT
+news_channel:vox.com
+news_channel_link:https://www.vox.com
+
+title:Cutting-Edge AI Was Supposed to Get Cheaper. It’s More Expensive Than Ever. - The Wall Street Journal
+link:https://news.google.com/rss/articles/CBMickFVX3lxTE1zbmFHS3pQTFJIcllDMVhPUmNONk1pV1EwTnBzbFJ2Z1RkTEhCUWlVeEpfMVZtUmI5aFhObVB6N0pVZFBLTlRCU0J0ak5GaElseGQ5QWs4UGtJT2l2cVpfQ0YyT2Faa3dWaDNfXzg1TEhTZw?oc=5
+pub_date:Sat, 30 Aug 2025 01:00:00 GMT
+news_channel:The Wall Street Journal
+news_channel_link:https://www.wsj.com
+
+title:AI Gateway now gives you access to your favorite AI models, dynamic routing and more — through just one endpoint - The Cloudflare Blog
+link:https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9zTWhuRXVUVzhyTmFCdl9uWG1LYkhPcDdDNXNiTkhyb0o5Q25LQndTVS0xZXJ1eTk4Sk9iZE82OEp3VHBPS3RPcDZfV3d3ZW9NN3NNVHFJazN1ajAtZV92WjNOZEd2cFU?oc=5
+pub_date:Wed, 27 Aug 2025 13:03:18 GMT
+news_channel:The Cloudflare Blog
+news_channel_link:https://blog.cloudflare.com
+
+title:Discount AI Brings Premium Risks To Public Procurement - Tech Policy Press
+link:https://news.google.com/rss/articles/CBMijAFBVV95cUxPcFdNbzM1M0U0cF9HcEo2MmNsTGZIdHhrcWU1TC1hRWR2RVNORlVRVlFtZjJLckluUVd3VmpRQXplVU50dFJFTzBoQUVJeHJqRlVFNnJubFpyRElocEJiZ3pjeVUySXRWTEhZdlVjUk5ycGU5N2k0aWJaMmRIYVdlY195MGVpT0xLTVZuSw?oc=5
+pub_date:Thu, 28 Aug 2025 13:35:43 GMT
+news_channel:Tech Policy Press
+news_channel_link:https://www.techpolicy.press
+
+title:Meta's AI leaders discuss using Google, OpenAI models in apps, The Information says - Reuters
+link:https://news.google.com/rss/articles/CBMiugFBVV95cUxNdjJmcVFZSkpDT2JMQmYxaGd6TGZJVWZORUo4UTJuZmhtRFYySjlpMGJUaEthenNlWHJSRFNUZ3cyZ0JLSnRUN2FjYVpuSlNhRHd0Q1JlQ2Y0VnhMaldFNW5NR0xRWGRkalhtbHJOeG43SnJYakN1MmZldDhwZm9XcTBtbEF0a3lFbVc3WXJjUEh5TG92YkxYR0t5aXJqTXp5NUc4UnVBYkVPUmgyYWVlNm92ZWM5RUkxdVE?oc=5
+pub_date:Sat, 30 Aug 2025 01:03:00 GMT
+news_channel:Reuters
+news_channel_link:https://www.reuters.com
+
+title:Troubleshooting network connectivity and performance with Cloudflare AI - The Cloudflare Blog
+link:https://news.google.com/rss/articles/CBMiiAFBVV95cUxNaUJDMEx3cFl1b1RERVhQa0NTRnpzSGxfLWZibDRubnZTdWZyM3RCQzFpUE4ydVZwZ2FzVWxlQ1lZMm9CbWdqRnE4NmlOQ2h5dWRPX0xKLUh0Y2ZpZUhsYVI5RlBBTEUwUWpNalExWTJfckhKeDAxUUhwMUpKTHdCVTNaZDAwS0xt?oc=5
+pub_date:Fri, 29 Aug 2025 13:05:03 GMT
+news_channel:The Cloudflare Blog
+news_channel_link:https://blog.cloudflare.com
+
+title:Microsoft Copilot AI predicts fantasy football sleepers, busts, more - USA Today
+link:https://news.google.com/rss/articles/CBMiwwFBVV95cUxNT2hSY2pRbWZHQUN1X1MwTVc0ZnJNZGxWWjlXS1A3MlRiaDJsVEFBdE93ZWxmemJ2bGVLazRPcTJfOFB6WVBiOWdRUVpPYllKTlA1TzlPTTVneGtrLXlXTXkzXzAweDEwM3VFSVdwOUF1NTZsQnE4UnM4ckdUY3pwQmxjRmlVc1JIQk80ZERnY3NKczAyQ3Voc2YxSnBvSlkwYmd6RGpEWVN2eXpmcW41aFoya0d3VVVyVnF1ZGxzYlliNm8?oc=5
+pub_date:Sun, 31 Aug 2025 10:49:35 GMT
+news_channel:USA Today
+news_channel_link:https://www.usatoday.com
+
+title:Bill Gates reveals the one job AI will never replace, even in 100 years - leravi.org
+link:https://news.google.com/rss/articles/CBMiogFBVV95cUxPZVg0ekZ1RlJJVzFoMl90WHoxemE3TENoT2k0ZkN5bXFJN0lhNmJaMDVtYXJtRVJXSnUwLUdxN2V5dlVxUE9za08zSmJxU0pqY0hKdmt6V3NhVFpoYUxCT0VSaTRRZmw5U0hHenVGTHZmLXZ6UEVKSHhWdkl0cFFOZ2MxdFcwOUZldV9VSWQ4TnZ4ZmFleVEyS0RkTnF3bFZtT3c?oc=5
+pub_date:Fri, 29 Aug 2025 13:50:47 GMT
+news_channel:leravi.org
+news_channel_link:https://www.leravi.org
+
+title:Taco Bell Slows Down AI Rollout After '18,000 Water Cups' Prank Crashes System - NDTV
+link:https://news.google.com/rss/articles/CBMiswFBVV95cUxQSVRiTTBVVnFrdVN3Rl85eVRjQ2xHRGtWUFVOTFNOM3k5M2JraDI0YVA0QUY0Nkt6VXIyUlJBRUlqWnRSRk1zM3FYSkJqRW4tdWQtcnFKZjN0TFE5bVY1cWJIV080YUdxUi1ZeTNJZjFCTXJYdUZZcDZOckV1dVNKSVZ1Q2ZBVktQYzExVUZVNndKZms2UDNKMlJpeGhlN3JvZE1GX2pUcUJRZGUyRk5fRzZzQdIBuwFBVV95cUxNNXBiUXJlYnFyRXRIeDI2Q1JyeDdnbGRkenJYWVlfTWFXS2hVTFhEMnJDbkdwYUVZMFNsbERwaW8wTGpDZ21xWTNpeW5oMGNHaWd0UTBlNFZEVWlJVmNPX1ZLTlRKU1RfLUg5MHJnelZtVFI2Z2NjN0hhWWVwWjRkdUlqYmxzSU9FaXdJOUxweGZvcDlqb0xLUlhmOVREQXFqeWpqQk5fUHVZdjFCTTZmZWQ0N0hiTDV6U19n?oc=5
+pub_date:Sun, 31 Aug 2025 01:06:10 GMT
+news_channel:NDTV
+news_channel_link:https://www.ndtv.com
+
+title:A.I. Is Coming for Culture - The New Yorker
+link:https://news.google.com/rss/articles/CBMiekFVX3lxTE1QMVJEWWZaS2dHOFZJMHYyQUdvSHRHNnJweVBkZFVRZXFOX2lhWWxFSk90cl83MTU5TEw2T2VsOVpodEZzYl9Na2ZOdlBvQ0ZEREh0X2xvSGhzZW9rNmZXRktSSEVPUThMQ2ZzNkdFMkdjSEhiVmZrQk5R?oc=5
+pub_date:Mon, 25 Aug 2025 10:00:00 GMT
+news_channel:The New Yorker
+news_channel_link:https://www.newyorker.com
+
+title:How Google is investing in Virginia to accelerate innovation for the U.S. - The Keyword
+link:https://news.google.com/rss/articles/CBMilwFBVV95cUxONzFIVGFXQnJoTWY5eWt1MjdScGY1VkZnNzRjLXNWU0JRaXZjSnlFazlZLXBWbnU4SHI2SENHdkRyMGhtcEZ2RWl0cFNhcGZGZWVuSDFXdEhSTlZnQnFBbS03NDV6QmllMWJzMS1LcnVXRHU0N21BQXNhcUxWT3ZHeWJ6aW9LMFJ1eHNlSEpOaHVBai10cEpv?oc=5
+pub_date:Wed, 27 Aug 2025 16:53:20 GMT
+news_channel:The Keyword
+news_channel_link:https://blog.google
+
+title:The A.I.-Profits Drought and the Lessons of History - The New Yorker
+link:https://news.google.com/rss/articles/CBMioAFBVV95cUxNZHZINXRNQVMwcWN6WXNHTkhvWVFsYzN1VXZTeEo2UDNtc2VuSGxCUVRxNTl3ckw3c1RXS0dpRmliWkRIQzhQM0JfZV9jSXBpdU5JNzBJMEZ4ai1BbnpHWEhYX3RpQVZVWG5wRXMwbmJMWHRFRGhfWjNkT0VWN0tPMm02bGEweVVUWTQxWjFRM2hwOUNNTXd5bWVwWXVseVJx?oc=5
+pub_date:Mon, 25 Aug 2025 10:00:00 GMT
+news_channel:The New Yorker
+news_channel_link:https://www.newyorker.com
+
+title:‘Sliding into an abyss’: experts warn over rising use of AI for mental health support - The Guardian
+link:https://news.google.com/rss/articles/CBMingFBVV95cUxPNjlkaTZBaXFTUUNpVkZ6S2RiSi03THpERnFCNmVBYTFMY0tzTkFHSmdoTEZDS3o4SDI3UFU3OC1CSTl5Vk9uOUhWcHUzSkk1NFBNbEVRMURSYWUtSUEwTjF5RkIzVFBvb05kOUJ2Z3RnM1hQSlAtdHNja2YxWllsUDhTaGNOb19GZ1V3STlkSExIcVFfZ3hqX09Zc2ZLZw?oc=5
+pub_date:Sat, 30 Aug 2025 10:00:00 GMT
+news_channel:The Guardian
+news_channel_link:https://www.theguardian.com
+
+title:Nvidia CEO Jensen Huang says AI will 'probably' bring 4-day work weeks: 'Every industrial revolution leads to some change in social behavior' - Fortune
+link:https://news.google.com/rss/articles/CBMijAFBVV95cUxQMFE2Mks5R1pSQW1TM3IzcXNHVXZfaVpOVmJxVnJSLWs1TjBLZGJYOXFpVzktUWVOamo3blNIUm1EaFBsUEd5dWhLb1hwOXdSblFoWW56R2dlTi1IQno4Zlh5Z1FacU5YS1l4QnQ2ZzVjNVhEajR5LVp3d0JVVHhDSzBxZ051YjBGVkVBNg?oc=5
+pub_date:Fri, 29 Aug 2025 20:27:00 GMT
+news_channel:Fortune
+news_channel_link:https://fortune.com
+
+title:Pope Leo XIV: The 100 Most Influential People in AI 2025 - Time Magazine
+link:https://news.google.com/rss/articles/CBMidEFVX3lxTE1rN205cjladzI3SmQyY3ppVkU0OElkWFlXcV9BQ0QtNU9vTklza0xzZ2ZkNEg2NWQ5Y2tSUUFSRW5CMENrUVpCakZLaG9pR0JkZ08tdlVEN3pyQ3cya1c4RDlJZElXQm5GeE01LVRZOEtpcXla?oc=5
+pub_date:Thu, 28 Aug 2025 11:06:00 GMT
+news_channel:Time Magazine
+news_channel_link:https://time.com
+
+title:Future Perfect mailbag: Is AI lying? And other reader questions, answered. - vox.com
+link:https://news.google.com/rss/articles/CBMimgFBVV95cUxOZ2FjRGNFRjJfS3N2dDBHdW1DQnRmeUxHWjYtdjFrcGJmOTNrbGlKc3RDeV9XWWFiSzF3dVFKX2FjNGphNWx3OVpBTkNYZnRkZHU5eTcwTVhvUEFvVWxhU2RGNFI0TEdRaGdGdmRCTkhTaDh3OXVGaFFTQ2ZRVy1Ta2VqbDVrQmxqOU9EUUcxdS1LRjFCTHlOT1BR?oc=5
+pub_date:Fri, 29 Aug 2025 12:30:00 GMT
+news_channel:vox.com
+news_channel_link:https://www.vox.com
+
+title:AI Is Eliminating Jobs for Younger Workers - WIRED
+link:https://news.google.com/rss/articles/CBMiggFBVV95cUxNTUFUaHJqYk1vVEZhRkQ5S2s4YzM5NGloUkFhaWFZSWtsMU5XT05wVjl3M3drLVRfSko2dlpBMTZtVFZkYklPOWNvMUxkRWxFVVNyVkpqUEVwNWtQVXJBNzlKbldWbmxZc04zQ01rOXJsLXdKUm11eC1VaGUyNDMxQ0dR?oc=5
+pub_date:Tue, 26 Aug 2025 07:00:00 GMT
+news_channel:WIRED
+news_channel_link:https://www.wired.com
+
+title:Simple maths says the AI investment boom ends badly - Firstlinks
+link:https://news.google.com/rss/articles/CBMihwFBVV95cUxQNzZRUWM1clc5T0hGSDJVVDlvQ2V6aGdkRjlDdlBmckpXRXdqcWZmemNuV1FET0cyUnNINEVDcDI2aXBiWGw0cW53cnUyUTZnai1raENadWE3b0swWEc3Mm94RjFaQVN1OFpmaDZUdDU2TzZUbGJEdFAwRFBiVFZKV29rNTVvSTg?oc=5
+pub_date:Tue, 26 Aug 2025 20:48:00 GMT
+news_channel:Firstlinks
+news_channel_link:https://www.firstlinks.com.au
+
+title:First AI Psychosis Case Ends in Murder-Suicide - Futurism
+link:https://news.google.com/rss/articles/CBMiaEFVX3lxTE5FZTJUSUM1a0NoS251WDBpMXl3b2R2VDI1dzlSN1BzTkxFUEh2VjBnUTFwTDhMalV5a1N2Zkxvb1Z6WmRkZ0ZsMjRQcVZjZ1pleUFORmRfWWdnTmJtUUw0QkItLWpmUTlo?oc=5
+pub_date:Fri, 29 Aug 2025 15:58:57 GMT
+news_channel:Futurism
+news_channel_link:https://futurism.com
+
+title:Google CEO Sundar Pichai, Facebook’s Mark Zuckerberg announce AI and Superintelligence partnerships with - Times of India
+link:https://news.google.com/rss/articles/CBMinwJBVV95cUxPMkoyT1Q0THR2MmNhdTh2dkFteTJFaHc5SURfQUo1dTFhNG94clV6eGk2OWREVTF4bE14ekgxazlLMXdfVW1GTFhiQm9acTdfRVNKWjFGd0xmNjFLdnZ1Q1FzRFRJalVBLVFkZVNUbGFXSXhFTEtnOG5SQnVEaXpITzZacHNxakxvNUVjV1VUSGZsVnVRZzRyOVNiSmxQdXhMR3YzZFJCRVk5V3RkYkthQVR5MkdTajdKYVMzaVhncThjRUdHTDJiOGpMdVJvSWlENVlLQU00Q2ZBaFVPTlpQY012eXJLNTlmSXZqTWhFS1p1amFDdFRObXlDNk1VVjFrSER1V0I5UHdIMWRRRDhKcU1pWGE2UzZPSkFJTkM4a9IBpAJBVV95cUxQUElwSWtteUpwbnBYazhQNXhydWtvQ1N3cDdFNEFlNEw5OG9xRlVOQnhrNk1XczRxRGUxLWU1Y2w5TkhhUmVDemNkcUQ3ZTlvR0pmS2xMc0lKcE1DRWE4LUxkZDVXb3ZiYlloMzV4cEtpWVhYTzFCbFQ4bTFQN1MzMzhaYXNMNkhlV21rVkNrQVFPWktyRW4zTkozeEtUUjlrdDgxVHhKQXg3VGhjNFJ1bjRYeS15eUVNd284N1VjV3RnaWpHUnFqR2VzQXhvUGxMREpGajZEaUtVWTBNaDFoMVUxU1VkcGlvWkpGTkUzNGpwcV90bl9VQVRncWEwODIyNDVKNGpDVEZDVEJLb3A2c2p5RXdWcVpvVFg5ekhsUVphX2df?oc=5
+pub_date:Sun, 31 Aug 2025 05:49:00 GMT
+news_channel:Times of India
+news_channel_link:https://timesofindia.indiatimes.com
+
+title:China's Alibaba develops new AI chip to help fill Nvidia void, WSJ reports - Reuters
+link:https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMThKbFV0cFktVHVTaFFuWGltaVNEMUozZTVrZGt5NXlFWkVMM1ZPV0tnWGVuX1h2Nkh1YVFUUFZaOUtqSC0yVks4RUFSZWZpMnBsLUZiZVRnN1YtR0V5TGNMMlg0TFluYTFyZjZnT256eTh1cGI3WGlNbVpYellhMDRCMF9BU0VQbzBWckM3dkF4eWpXNTRDWF9PWEF0SUliaFBxS3RMRUFPT3BTNDVxci1oVEVZRUU3?oc=5
+pub_date:Fri, 29 Aug 2025 10:01:39 GMT
+news_channel:Reuters
+news_channel_link:https://www.reuters.com
+
+title:Survey: College Students’ Views on AI - Inside Higher Ed
+link:https://news.google.com/rss/articles/CBMinwFBVV95cUxQSzhZbHB4bTVENWRyeHh1bjN4TktLeUEtenNpSzhZTDB5WGtfMDZ0aGNLY2o2dlMxTEtuQ2g4LUdVUk1jNzN1Vm1PMmVOeGxqMnYwanBHOHZRMjdTOWhfLXZ4YWlsdGVqRDN5S3JxN2ZqT0J2ZHVIcVN2cVpOTDlfX2RsLV82Tk9RMG0yaVhFM3RCQ0RLX2twVFNkdnpISHM?oc=5
+pub_date:Fri, 29 Aug 2025 07:02:17 GMT
+news_channel:Inside Higher Ed
+news_channel_link:https://www.insidehighered.com
+
+title:AI Tool Flags Predatory Journals, Building a Firewall for Science - Neuroscience News
+link:https://news.google.com/rss/articles/CBMic0FVX3lxTE9id29YRUFnVGNlX2N4a1FrZllZZVRXMF9IX0ticGtfcjVoaFV5RzVOSWpybDlXRHBob2k0eU1HSlRNZGY4ZWNWV2dFWmpsTkhWV3dVZ2c0ZEcwS05ja2I3Q3JrRG1STVllTktob2p2U1k4Z0k?oc=5
+pub_date:Sat, 30 Aug 2025 19:42:16 GMT
+news_channel:Neuroscience News
+news_channel_link:https://neurosciencenews.com
+
+title:Alibaba is developing a new AI chip — here's what we know so far - CNBC
+link:https://news.google.com/rss/articles/CBMinwFBVV95cUxQOXdzZ1pIZEdXWnVBYzhTSjVnZWJ5RlpHcWNycmt2MXZZZy1aM1VwdEh3by12ck15ZnN2Z2RpSG5venNsOWg0TTVNZXlHR2paZUkzNDE0N21lTFlDVzZQY0hWZEktdU1uWXFHb1ZBektTSkRkbnB1NndBdjB5aEowaTVaeHB0MnFzUmhpWFZtVnhCcTBPRkZ4RWdCZEhXWUE?oc=5
+pub_date:Fri, 29 Aug 2025 14:53:51 GMT
+news_channel:CNBC
+news_channel_link:https://www.cnbc.com
+
+title:AI Mode in Search gets new agentic features and expands globally - The Keyword
+link:https://news.google.com/rss/articles/CBMic0FVX3lxTE1iTjEwVXhNMFcyZ3puOTd1UkxsZExTRFJ6ajVuTWw1cFE3Skgyb19LT2tPaUxUcVhHS01VMWtabFdvbnpISmhnNzY0d05rbGFvNFljT1AzQWJfTnZER2dXM3JLUUowa3ZpT1FpclBIbUgyQUk?oc=5
+pub_date:Thu, 21 Aug 2025 07:00:00 GMT
+news_channel:The Keyword
+news_channel_link:https://blog.google
+
+title:23-Year-Old Duo Exited Amazon And Microsoft To Build AI Startup, Raised $4 million - NDTV
+link:https://news.google.com/rss/articles/CBMi5AFBVV95cUxPaHVNazNWTHpLRXJPYVNxTmVDS3ZyRjJjWjJiTnk4MnlXNldiRUFGYWZ1UGtDdV9xWGFLQVFaeERiMl91Q1V3NlFodE5DYldWRnYtU2l0WVJBWmxsSkZJODlBcTdwUVRYTWI5OHJGbE9XMjNua3djdGQzY1V4V3B0TmNrY2htd2FHZ3JQeVVPTXVZSFZha2JXWS1yTDJBMmFncWR4MVF3aTJvQnNFTDZtSFJtWjJ3cXpZQlJrLWQtWDQzb05ERWl0TV9vU2lydkk3M09hbXlnYmpsckltQlQ2b1I1YVXSAewBQVVfeXFMTVpRekNpZXhjN01mOXhNM0FRUkoxbXVpbGNCMUFTc1FFRFNKVFp4aWE1N1JaaUFXeEpKRXAtVDlzTmtZLURoYno1VWlDYXhtUURvOVJRblpmODAweVVyMGtqUEJPcDIxNnpnc0hEZ3pVNEJUdXhMNU5fSzRteHBYWS15UEs0TGt0Nl9wT3lUYU5NMDdmQXE4N0ZETjlBWWI1MmVENllhWGJKUWMzMzFCLWtsaGJOc2ItNmwtZDlEWk04VGpoa2JfOElzWTJhQ1FINDNDbnZfUzNSUjlsbVpFTEpqaDNmM2xTY0tfc2U?oc=5
+pub_date:Sun, 31 Aug 2025 01:55:27 GMT
+news_channel:NDTV
+news_channel_link:https://www.ndtv.com
+
+title:Meta is reportedly looking at using competing AI models to improve its apps - Engadget
+link:https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbFAtaTQxVkZPekNFb19EVU5DdkQxcExZUGk2MzRITmVaVC1wU3diei1IWTdRNEZTcHpxemsxdlRmdkpYMW5jSXl6eXo3WC1talRISGhhZ3A3dFNyMXRmaXl0OWVoZmN0dzZJZl84R2tpakwwUHVybkd4cXdBdEZJMFMxOVNmOC1sblgyZDFmYV8tTk1TdDJOM1kyN0Y1Z0I1ZndFU1VNdnVNMXB6WWxzdUpTa19HdWJDVGNoTFM4T2tOZw?oc=5
+pub_date:Sat, 30 Aug 2025 18:22:09 GMT
+news_channel:Engadget
+news_channel_link:https://www.engadget.com
+
+title:US tech stocks drop as AI uncertainty knocks chip groups - Financial Times
+link:https://news.google.com/rss/articles/CBMicEFVX3lxTE1nRjZjVzl5ZGJkNl91UXUzMnZBcHJwNmhBd29pN0dkeExXX2IxTzRGOUNYb3NFMkFxR0c2cDQtaUh2anByNU1UUXpRSUphV284MkRCRUpDbE1lV1NQSWYwaC1BbzM0T3VXdmpQNV9CLV8?oc=5
+pub_date:Fri, 29 Aug 2025 17:34:38 GMT
+news_channel:Financial Times
+news_channel_link:https://www.ft.com
+
+title:I Wanted a ‘Team of Rivals’ to Give Me Advice. So I Turned to AI. - The Wall Street Journal
+link:https://news.google.com/rss/articles/CBMid0FVX3lxTE50dHQ0VU8ydmt3eHBsMGY4bEpPQ1Y5b3N0c2k5T3RNOEM3UjFhQjFqR1JzaHFLMkZMQmQyTTZXOXlxZERmekU1ZXFTZU1nbUdwMTQ3RHJtT09zMWpLX0tqMy1zYkpxSkRhUHhtWXgtUlJWQ1o2Zk1Z?oc=5
+pub_date:Fri, 29 Aug 2025 13:00:00 GMT
+news_channel:The Wall Street Journal
+news_channel_link:https://www.wsj.com
+
+title:How ‘Clanker’ Became an Anti-A.I. Rallying Cry - The New York Times
+link:https://news.google.com/rss/articles/CBMidEFVX3lxTE5uVW9NVWNjd2dXVUZLcGZ2X2JoMko5QTVPbExydmJqNHlKNFp3eUJYbGVDUVZzRk80ZGs4dEk5RVN0ZUd3bG5LOHAtSzBLNC1TdVpFb3V4LU1QVUxWUHNjNFk3dVIweHF2dFVGR3QxblNidkxT?oc=5
+pub_date:Sun, 31 Aug 2025 09:00:46 GMT
+news_channel:The New York Times
+news_channel_link:https://www.nytimes.com
+
+title:Tips for getting the best image generation and editing in the Gemini app - The Keyword
+link:https://news.google.com/rss/articles/CBMid0FVX3lxTFBESkpiS3FnMlVHNjlOMUZ3SlFjRDRia21JSVNJc2JHaDNzUUJCMldnODNoQ08yQjg1WkJoMjBjY2tsd2tpV0t1LU55V1BzcWZPaDIzeE9ycXRxRmRTdG90YzZoYThkUHlya0hTVnN3MUtEblUtSU1F?oc=5
+pub_date:Tue, 26 Aug 2025 21:55:14 GMT
+news_channel:The Keyword
+news_channel_link:https://blog.google
+
+title:Why China has a tech manufacturing advantage over the U.S. - Rest of World
+link:https://news.google.com/rss/articles/CBMickFVX3lxTE5vMXl2eWtkNWhuMy15WnEtRTBGLWNNY1dUR1NsM3FxbE5CbkdVc2l4bjFtYklZVEhOS21adTlyN3p2Zi05MVhsOGdTc1lFejBybmNONlNJUmpfTEhCMl9rdXFnYklBakNDd1hnX3pRUVptdw?oc=5
+pub_date:Fri, 29 Aug 2025 10:02:30 GMT
+news_channel:Rest of World
+news_channel_link:https://restofworld.org
+
+title:AI exposes 1,000+ fake science journals - ScienceDaily
+link:https://news.google.com/rss/articles/CBMib0FVX3lxTE1Mb2NZMEJhQWJDUlllU1ZDLUhkb1pnVHRRRE9jVUs4bzRvMGROaGhMNHJaeUM1b2t4d0J6cEVUOHRTcDRRSU5qR2ZoTEZCX0xPZC0tdktUcVdlQWZnQ2xRZjRGaEo4cWlmXzBlY0JXdw?oc=5
+pub_date:Sat, 30 Aug 2025 14:56:14 GMT
+news_channel:ScienceDaily
+news_channel_link:https://www.sciencedaily.com
+
+title:These AI-Skilled 20-Somethings Are Making Hundreds of Thousands a Year - WSJ - The Wall Street Journal
+link:https://news.google.com/rss/articles/CBMicEFVX3lxTE1CaE4wYXQwX29JZE9wNlV5YTJCSDNwa1R3bTNGZkhiVE40Z1prV2VyYThHSkhJX1dMQUhtcDlxbmR5UTV6b0JiWUU3ZU5MVmxFZmdMQ3ZnaHp0NWRxVUhqU2c2d3NDY3dCN2dDVW9wS3Y?oc=5
+pub_date:Wed, 27 Aug 2025 00:00:00 GMT
+news_channel:The Wall Street Journal
+news_channel_link:https://www.wsj.com
+
+title:AI stethoscope would help doctors pick up heart conditions within seconds - The Independent
+link:https://news.google.com/rss/articles/CBMirwFBVV95cUxPWUxDa2N2Z0NtdHZjTVdHT0ZnR3VNVzVrXzZ4OGpiVEtwMUZrd3pHWHZfNDV1NlNTS0NxVnN1NF8wTy01OGR5bUljMUJBZTFvQTFtLVEwYkpQRnBjTmthTjVjM1FWLXd5eVdSckE5QTdHcUVERC1aM3ZxNzVndTZlR0lpeVp1Y1RrV0ZHZnNKQlpNbUVjcEpnQjZDcHpGR2gxNHZXUFEzUk1mQ2lzSUpZ?oc=5
+pub_date:Sat, 30 Aug 2025 17:16:00 GMT
+news_channel:The Independent
+news_channel_link:https://www.independent.co.uk
+
+title:Scientists just developed a new AI modeled on the human brain — it's outperforming LLMs like ChatGPT at reasoning tasks - Live Science
+link:https://news.google.com/rss/articles/CBMijAJBVV95cUxPdUxOSmV3S0dxUDZYTEsxRng1MDNrQnlSbVROelJoSVM4UlhRbGxSRG44VGt3RWhwN1FvYXJtN19MX1lPbERtZjlLOVlYTnV0RWlxZUZ4N1NUWG1DTnVfMUxldGtTaWt0RUQxbk1kM3ZXSzgwRFVxaWtyYnJxSExxR01YeEU2MkVoR1ctdjhlMFlibHA0Q0tlcnVhbWllckctM1BxTnRnVlRoSlIySFZkNk54XzNyZFREYXAtd1p5ZzJlaXc4eVktd2RzcmR6UnFENzFqRXItSjc0S25xamZpTGhjZ29rRi1zUTZBWDBueFZOWGQtVFBKRVpOQVZPeUJfT2tJQTFqR016U3g4?oc=5
+pub_date:Wed, 27 Aug 2025 12:00:00 GMT
+news_channel:Live Science
+news_channel_link:https://www.livescience.com
+
+title:AI and Nvidia have been bright spots in an uncertain economy, but there are doubts now - NPR
+link:https://news.google.com/rss/articles/CBMidEFVX3lxTE9XV3E5YlFkTjY1bDhjUkNUUGpvaHVqaGtWR0hreDJSVWVuWUdYTWJUTkxscE9DdW9CMHV6T0EzRzc0bnZVRzBEZi10LTlmWDZEbVpwdjU3Y1FZbE5tNnlUbjhYZUNhR3VHeHpEczJfQktYTnNr?oc=5
+pub_date:Sat, 30 Aug 2025 09:00:00 GMT
+news_channel:NPR
+news_channel_link:https://www.npr.org
+
+title:India's Reliance ties up with Google and Meta to drive AI push - CNBC
+link:https://news.google.com/rss/articles/CBMinwFBVV95cUxNVjgwcUNMYUtSNjZIYUtaaFhBUV9ELW1TOFF6NHRHT00zTHJoNUMyQlV0aERDdTlkV2ZlNjczdlZVTy1STjZPQTZYeWZOYVc1WjBHc1l0RXZNN0dOX0hrOWVmOVRJcEktSmZvczBCMnl3WGUzdHhmVzdKUW13M2kybVlPblF5TnhZWmdSM3ZRSEFUX3d0ZEp5TmJ3REZXSUXSAaQBQVVfeXFMTUhOUTVUQW51Uko1emM0eFBOS2paZXV2R1hIRDJPSGdRUndhdjIwN29qdVR6XzlzVWhHdXZWa1lWMTFnNnY2RTlMWW5BQndWYlZpbG9Ga01qcU9nR3NBQmU0NmJKZWRvZDJtSV8tTmh3cFJKQ1I1ZFRZdmcwUzJtcUQydTUwY1ZlNHhsakJUNDNfWmM5NWdkY0tvSF9sYkxaeUZiOEg?oc=5
+pub_date:Fri, 29 Aug 2025 11:30:55 GMT
+news_channel:CNBC
+news_channel_link:https://www.cnbc.com
+
+title:Edit images in Google Photos by simply asking - The Keyword
+link:https://news.google.com/rss/articles/CBMidkFVX3lxTE9XdEFNV2xPX1gyZHJxZVVSVU9fUnhkSUltX2RObnhUSmpHWWlRcVJEeHpKZUNlWTI4VF80ckJ4eWx2U0txc21aYkpnQk40MkZEYS1saWY3a25mR1RQYmp3TXBkZFJNMHBDdUtwbEkyelBiZmVSNFE?oc=5
+pub_date:Wed, 20 Aug 2025 07:00:00 GMT
+news_channel:The Keyword
+news_channel_link:https://blog.google
+
+title:Exclusive: 60 U.K. Lawmakers Accuse Google of Breaking AI Safety Pledge - Time Magazine
+link:https://news.google.com/rss/articles/CBMic0FVX3lxTE9pMkItUzgwM0NJSTZwNG4xbHRyR2VueXpKUmZMam9Vc2JuVmhNbDVUQjdrQkRVN29UU05XN0EyQXl3cmdwN3hJbkgzWGc5bkZyREJLeUFHQ2kxUmVReTEzUXVkaUNfVzFCRk5fT1hKZGNOMXM?oc=5
+pub_date:Fri, 29 Aug 2025 13:06:27 GMT
+news_channel:Time Magazine
+news_channel_link:https://time.com
+
+title:AI stethoscope can detect three heart conditions in 15 seconds - British Heart Foundation
+link:https://news.google.com/rss/articles/CBMi1gFBVV95cUxOdVczWXJ6NFYyaWFpWnd5V2NrOWdMakZGNjhoQXA2ODRkcmZENzVESUpVYUg0VTYzeG5fQ3NjdTdhWHJPMjcwak85R3RGVjltLVlnSHNneGRwYk5mQzRuZGZtYkZKQlA1UDFkVTRLVWZ5c0pDNW1FOXJPMkxBdHg3THdkdjc1SVpMTTUxRklLbV9wbS1GWUdDSmRDRVZoQTNYOUpneVhUaTJvRFctWmp1emhRQ0Nfb2RESDh2S0JuTmNZVEhWcWF1RWhlaVZ1cktuWDJwTkJn?oc=5
+pub_date:Sat, 30 Aug 2025 12:35:27 GMT
+news_channel:British Heart Foundation
+news_channel_link:https://www.bhf.org.uk
+
+title:Alibaba misses revenue estimates, but AI boosts cloud business - Reuters
+link:https://news.google.com/rss/articles/CBMipwFBVV95cUxPaUZwUHBpeksxbmV4VzRIc2xMRXpnVjBjd2pibGhtaWxQeGVTTUJrOVBvcDVmU3dfcGIwWVp1aGlZdGtuRzk3alFqd0tsMjJkZXRyZkEzeVFCQ1VPQWlDLVFiWG5Lem5rMTVZVmZRa1gwbnpaNDZVYkI4RXpiaFRBbUdjeGUtRGhqdE9YSnNOQXhyV1dWczkyaUdMUnFqTVAtZDVYSXhsMA?oc=5
+pub_date:Sat, 30 Aug 2025 10:58:50 GMT
+news_channel:Reuters
+news_channel_link:https://www.reuters.com
+
+title:Jensen Huang: The 100 Most Influential People in AI 2025 - Time Magazine
+link:https://news.google.com/rss/articles/CBMieEFVX3lxTE5vR1I3cEYwaEdNRGxobWFWZzJuLVJjdExjV2JBWTg0cmI1X0RFejY3bEh1a0tkNjlwMW4xalJuUWZRbWN6Wk1QSkJoSDhSR1NrdVZuUFVhY2JoZUlvaDNnczRXQm8yQTRKUXZwbF9UeDliUFdpTEVkeg?oc=5
+pub_date:Wed, 27 Aug 2025 07:00:00 GMT
+news_channel:Time Magazine
+news_channel_link:https://time.com
+
+title:Under the hood: Exploring the AI models powering GitHub Copilot - The GitHub Blog
+link:https://news.google.com/rss/articles/CBMirAFBVV95cUxOMllJalZVUkdHX01RWmlpbHRoaWw3bjg3UlJ1bTh1VDhyRlN0ZFVJSml2akpnM1dGbTl2Zk13d3BPaXFYVUdwQUhQa1hnTGlJRFRINTRxamxPWFpXMlZzakNnb1JJVGM2ak55RlNfbzdRekpubG5xNHBPaDJObzNoZHNZc1ZfWmVaa18wSzBmbXJoZUphYnk1eHNwelNFc2I0cGZ4bE9EWmZtSV9R?oc=5
+pub_date:Fri, 29 Aug 2025 17:12:55 GMT
+news_channel:The GitHub Blog
+news_channel_link:https://github.blog
+
+title:Why the Will Smith Video Is Just the Beginning of AI Chaos - The Hollywood Reporter
+link:https://news.google.com/rss/articles/CBMisAFBVV95cUxOYjMzZVlxUnc2Z1lnYnR1TzRKOU5DRzczQXhKdmozUVJBeUtvR1ZORnRUY2J0X1p0UlVpRFAzUUJQR3cyYTB4WTNVME1lRTRNMjV4dFVoWXYzNWZ3bF81NEZscnM5bGpTN3Nrel83YUJtb0wtV3ZKc3ZrN2trS2xWYmkyeFJuNDd4TGw3ZkFUQVFSU2dJZXA2b2NvX1RwMjNsbmNnNjdSTWZlWkk0TjY2WQ?oc=5
+pub_date:Sat, 30 Aug 2025 12:36:19 GMT
+news_channel:The Hollywood Reporter
+news_channel_link:https://www.hollywoodreporter.com
+
+title:Anthropic users face a new choice – opt out or share your chats for AI training - TechCrunch
+link:https://news.google.com/rss/articles/CBMisAFBVV95cUxQOHl1d0RGcXJLRlpZRld3OXJZS1N3VUFnVHk3eHFkSE5BRlM3QzdRSHFZVHlaTy12cEtxaEEyZS1ObTNSZE1IMmZ2TVJDRkk4dFpEaW5iZnBpTEJpLWRUSmN4dHd0ci14VDRpYkxEQnNQYnJNRXQ1ZU1Od21URmNoLS11RGV6UHRqajloaHFTblJfWWVlUU8yd3VyQnl2VlgyYzdLVGtPX0V1SEdZQUxIMg?oc=5
+pub_date:Thu, 28 Aug 2025 20:43:12 GMT
+news_channel:TechCrunch
+news_channel_link:https://techcrunch.com
+
+title:9 ways AI makes Pixel 10 our most helpful phone yet - The Keyword
+link:https://news.google.com/rss/articles/CBMie0FVX3lxTE9DUGRKZWxjYUR4clpmSjg0VFAyRnVKRFQzTEdwQkhNclJYeW1fbjhVTU1QY0xVeFVyd0NOVUxxWFVDaE5FM19Gcm9CMFpDbVdVdmJmN1FxUlhia082Y3lJd19xV0oxOGtsMVJYS2NhZlVTU1NDQ2dfQzZCRQ?oc=5
+pub_date:Wed, 20 Aug 2025 07:00:00 GMT
+news_channel:The Keyword
+news_channel_link:https://blog.google
+
+title:NASA, IBM’s ‘Hot’ New AI Model Unlocks Secrets of Sun - NASA Science (.gov)
+link:https://news.google.com/rss/articles/CBMijgFBVV95cUxNc0xSLXhsa0xXa2plVkdHR3NDSFVmTDBnTXJhYVJXVXFFZDBuU2huR2JCMTVBeWs1Mjc5NTJBWVZoYlV6bFlYNVI3OGZhSWE4NG8xWkgwYWpITEtYazhfcTlsVUVqTXBNdWxUTVVOVmc1MV85UHlKUm8zTVJuaVZkWDQ3MjAzMmxRcDlkMzFB?oc=5
+pub_date:Wed, 20 Aug 2025 07:00:00 GMT
+news_channel:NASA Science (.gov)
+news_channel_link:https://science.nasa.gov
+
